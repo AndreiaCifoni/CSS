@@ -1,0 +1,20 @@
+div {
+    background: plum;
+}
+/*to change individually >> in the html put an " id="bla bla" "... in css put "#the id given"*/
+#parag {
+    color: steelblue;
+}
+/*to change more than one at the same time >> in html put "class="bla bla" " and in the css ".name of the class "*/
+.test {
+    background: palevioletred;
+}
+li {
+    border: 2px solid red;
+}
+#special {
+    background: palegreen;
+}
+.completed {
+    text-decoration: line-through;
+}
