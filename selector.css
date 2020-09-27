@@ -24,3 +24,12 @@ a[href="http://www.google.com"] {background: lightskyblue;}
 ul:nth-of-type(3){background: plum;}
 li:nth-of-type(3){border: 3px dotted blue;}
 li:nth-of-type(even){background: rgb(198, 240, 198);}
+
+/*inheritance - when you style something and what is inside gain
+ that style by inheritance... example: style the body, by 
+ inheritance, the paragraphs and everything will have that style*/
+
+ /*Specificity - something with a lot of styles applied, but there
+  is one selector that is more specific and is that one that will 
+  "win" over the others... check on google "specificity calculator
+   css"*/
