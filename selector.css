@@ -1,0 +1,26 @@
+/*elements
+li {...} */
+
+/*class
+.hello {...} */
+
+/*id
+#name {...} */
+
+/*star - whatever is done, apply for every single element*/
+    * {border: 1px solid lightgrey;}
+
+/*descendant selector - take two or more tags or selectors nested and chain them together*/
+/*example, select only the anchor tags inside the li*/ li a {color: red;}
+
+/*adjacent selector - let select elements that come after another (not nested inside) */
+h4 + ul {border: 2px solid red;}
+
+/*attribute selector - select elements based in any attibute (example: select all images or all links or ...*/
+a[href="http://www.google.com"] {background: lightskyblue;}
+
+
+/*nth of type - takes a number and select every nth of the specific element */
+ul:nth-of-type(3){background: plum;}
+li:nth-of-type(3){border: 3px dotted blue;}
+li:nth-of-type(even){background: rgb(198, 240, 198);}
