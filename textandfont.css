@@ -8,10 +8,16 @@ h1 {font-size: 5.0em;}
 p {font-size: 2.0em;}
 span {font-size: 2.0em;} /*it is double the size of the enclosing element (paragraph) - if changes the paragraph size, the span will change */
 
-/*font-weight*/
+/*font-weight - how thick the font is*/
+p {font-weight: bold;}
+#second {font-weight: lighter;}
 
 /*line-height*/
+p {line-height: 2;}
 
 /*test-align*/
+#second {text-align: right;}
+h1 {text-align: center;}
 
 /*text-decoration*/
+p {text-decoration: underline;}
