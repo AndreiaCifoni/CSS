@@ -1,0 +1,17 @@
+/*font-family*/
+p {font-family: Arial;}
+h1 {font-family: lucida;}
+
+/*font-size.... "em" is a relative font size*/
+body {font-size: 10px;}
+h1 {font-size: 5.0em;}
+p {font-size: 2.0em;}
+span {font-size: 2.0em;} /*it is double the size of the enclosing element (paragraph) - if changes the paragraph size, the span will change */
+
+/*font-weight*/
+
+/*line-height*/
+
+/*test-align*/
+
+/*text-decoration*/
