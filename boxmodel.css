@@ -1,0 +1,26 @@
+p {
+    /*Content - width and height*/
+    width: 200px; 
+    /*Border*/
+    border: 2px solid blue;
+    /*Padding - espaço entre borda e texto*/
+    padding: 10px;
+
+    /*Margin - space outside of the border, between elements*/
+    margin: 50px;
+
+}
+
+#different {
+    /*Content - width and height*/
+    width: 50%; /*another way to input... my box is 50% of my page ( se diminuir ou aumentar a tela, o box muda tbm*/ 
+    
+    /*Border*/
+    border: 2px solid blue;
+    
+    /*Padding*/
+    padding: 10%;
+
+    /*Margin - space outside of the border, between elements*/
+    margin-top: 100px;
+}
