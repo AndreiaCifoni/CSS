@@ -21,3 +21,7 @@ h1 {text-align: center;}
 
 /*text-decoration*/
 p {text-decoration: underline;}
+
+/*adding a font using google fonts - need to add the link to the "head" in html and then use the css comand that the site gives*/
+#different {font-family: 'Indie Flower', cursive;}
+#gfonts {font-family: 'Dancing Script', cursive;}
