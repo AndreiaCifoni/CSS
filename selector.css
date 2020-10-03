@@ -11,7 +11,8 @@ li {...} */
     * {border: 1px solid lightgrey;}
 
 /*descendant selector - take two or more tags or selectors nested and chain them together*/
-/*example, select only the anchor tags inside the li*/ li a {color: red;}
+/*example, select only the anchor tags inside the li*/ 
+li a {color: red;}
 
 /*adjacent selector - let select elements that come after another (not nested inside) */
 h4 + ul {border: 2px solid red;}

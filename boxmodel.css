@@ -23,4 +23,9 @@ p {
 
     /*Margin - space outside of the border, between elements*/
     margin-top: 100px;
+    /*or use a shortcut to the four sides....
+    (first value is for the top, then the right, botton and left)... 
+    margin: 20px 40px 500px 100px;*/
+    /*another shortcut is setting only 2 values, first will apply to top and bottom and second to right and left...
+    margin: 0 20px(se usar a palavra "auto" ele centraliza;*/
 }

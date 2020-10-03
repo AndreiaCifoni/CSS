@@ -1,0 +1,7 @@
+body {width: 100px;}
+
+.middle {border-left: blue;border-right: blue;}
+
+#middle {border: blue;}
+
+.lateral {border-top: blue; border-bottom: blue;}
