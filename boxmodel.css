@@ -1,6 +1,7 @@
 p {
     /*Content - width and height*/
     width: 200px; 
+    height: 100px;
     /*Border*/
     border: 2px solid blue;
     /*Padding - espaço entre borda e texto*/

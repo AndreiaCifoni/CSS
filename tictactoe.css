@@ -1,7 +1,33 @@
-body {width: 100px;}
+td {
+	width: 100px;
+	height: 100px
+}
+
+.vertical {
+  border-left: 2px solid grey;
+  border-right: 2px solid grey;
+}
+
+.horizontal {
+	border-top: 2px solid grey;
+	border-bottom: 2px solid grey;
+}
+
+.middle {
+	border: 2px solid grey;
+}
+
+div {
+	width: 100%;
+	margin: 0 auto;
+}
+
+/*table {border: blue;}
+
 
 .middle {border-left: blue;border-right: blue;}
 
 #middle {border: blue;}
 
 .lateral {border-top: blue; border-bottom: blue;}
+*/
