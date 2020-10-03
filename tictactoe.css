@@ -13,21 +13,10 @@ td {
 	border-bottom: 2px solid grey;
 }
 
-.middle {
-	border: 2px solid grey;
+table {
+	margin: auto;
 }
 
-div {
-	width: 100%;
-	margin: 0 auto;
+h1 {
+	text-align: center;
 }
-
-/*table {border: blue;}
-
-
-.middle {border-left: blue;border-right: blue;}
-
-#middle {border: blue;}
-
-.lateral {border-top: blue; border-bottom: blue;}
-*/
